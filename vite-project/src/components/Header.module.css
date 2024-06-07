@@ -1,0 +1,18 @@
+.header{
+    background-color: rgb(140, 0, 255);
+    text-align: center;
+    padding: 15px;
+    color: #fff;
+    font-size: 2em;
+    font-weight: 600;
+    width: 100%;
+    margin: 0;
+    border-radius: 100px;
+}
+
+.menu{
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+}
+

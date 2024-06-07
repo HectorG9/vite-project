@@ -1,0 +1,15 @@
+body {
+    text-align: center;
+    font-size: 2.5em;
+    font-weight: bold;
+    font-family: 'roboto', sans-serif;
+    background-color: rgb(0, 136, 135);
+    color: rgb(255, 255, 248);
+    margin: 0;
+}
+
+@media only print and (min-width: 600px) {
+    body {
+        background-color: lightblue;
+    }
+}    
