@@ -5,7 +5,7 @@ function Home(props) /* usando props, ao invés de declarar o nome diretamente *
     <div>
       <h1>{props.nomePagina}</h1>
       <h2>{props.paginaPrincipal}</h2>
-      <Homecontent/>
+      <Homecontent />
     </div>
   )
 }

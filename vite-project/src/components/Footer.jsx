@@ -1,10 +1,11 @@
 import styles from './Footer.module.css'
 
-function Footer() {
+function Footer(props) {
   return (
     <>
     <footer className={styles.Footer}>
-      <span>Footer</span>
+      <h1>Footer</h1>
+      <p></p>
     </footer>
     </>
   )
