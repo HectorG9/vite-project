@@ -6,6 +6,7 @@ function Home(props) /* usando props, ao invés de declarar o nome diretamente *
       <h1>{props.nomePagina}</h1>
       <h2>{props.paginaPrincipal}</h2>
       <Homecontent />
+      <img src="" alt="" />
     </div>
   )
 }

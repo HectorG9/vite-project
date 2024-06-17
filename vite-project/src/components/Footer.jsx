@@ -1,6 +1,6 @@
 import styles from './Footer.module.css'
 
-function Footer(props) {
+function Footer() {
   return (
     <>
     <footer className={styles.Footer}>
